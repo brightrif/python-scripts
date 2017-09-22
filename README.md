@@ -1,5 +1,6 @@
 # python-scriptss
 1) storage log files into mysql datbase 
+
     +-----------+--------------+------+-----+---------+-------+
 | Field     | Type         | Null | Key | Default | Extra |
 +-----------+--------------+------+-----+---------+-------+
