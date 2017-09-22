@@ -4,7 +4,7 @@ import MySQLdb
 import csv
 
 #connect
-db = MySQLdb.connect(host="localhost",user="admin",passwd="indra2012",db="ihs_logs")
+db = MySQLdb.connect(host="localhost",user="admin",passwd="password",db="logs")
 
 cursor = db.cursor()
 
